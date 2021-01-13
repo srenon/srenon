@@ -1,4 +1,7 @@
-### Hi there 👋
+Senior Magento developer with over 15+ years experiences developing award-winning client facing e-commerce solution for major brands. 
+
+<a href=https://www.magepal.com><img src="https://user-images.githubusercontent.com/1415141/104474391-f68a3580-558b-11eb-9ecd-70b128ad9cc5.png" /></a>
+
 
 <!--
 **srenon/srenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
